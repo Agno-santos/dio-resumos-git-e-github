@@ -11,7 +11,7 @@ Repositorios para salvar resumos sobre Git e github do curso Python analitcs dat
 ## 💻 Resumos das aulas
 | Aulas | Resumos |
 |-------|---------|
-| gravando alterações no repositorio local |[Resumos]()|
+| gravando alterações no repositorio local |[Resumo]()|
 ```git init```
 
 ## 🔍 Referências
