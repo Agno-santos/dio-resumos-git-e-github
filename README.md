@@ -9,7 +9,7 @@ Repositorios para salvar resumos sobre Git e github do curso Python analitcs dat
 - [Documentação Git](https://git-scm.com/doc)
 - [Documentação Github](https://docs.github.com/pt)
 ## 💻 Resumos das aulas
-| Aulas | Resumos |
+| Aula | Resumo|
 |-------|---------|
 | gravando alterações no repositorio local |[Resumo]()|
 ```git init```
